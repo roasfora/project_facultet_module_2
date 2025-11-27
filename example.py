@@ -1,3 +1,4 @@
 name = "Alice"
-grade = 85
-print(name, grade)
+grade = 90        # updated from 85
+status = "passed"
+print(name, grade, status)
